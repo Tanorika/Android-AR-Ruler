@@ -34,7 +34,7 @@
 
 ## 📸 界面预览
 
-*(建议在此处添加应用截图或 GIF 演示)*
+![image](https://github.com/Tanorika/Android-AR-Ruler/blob/main/usage.gif)
 
 ## 📦 安装说明
 
